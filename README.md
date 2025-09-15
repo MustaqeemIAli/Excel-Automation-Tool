@@ -35,11 +35,11 @@ It simplifies merging, cleaning, and categorizing financial transactions from mu
 ## Tech Stack
 - **Python 3**  
 - **PyQt5** – GUI framework  
-- **Pandas** – Data manipulation  
+- **Pandas** – Data manipulation 
 - **OpenPyXL / xlrd** – Excel reading/writing  
-- **xlwings** – Pivot table refresh  
-- **Chardet** – Encoding detection for CSVs  
-- **Requests** – Real-time date verification
+- **xlwings**  
+- **Chardet** 
+- **Requests** 
 
 ---
 
