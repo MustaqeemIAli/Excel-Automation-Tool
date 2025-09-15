@@ -4,6 +4,7 @@ A Python-based **Excel/CSV automation and data consolidation tool** with a clean
 It simplifies merging, cleaning, and categorizing financial transactions from multiple monthly files into a single **main Excel file** — with full automation, duplicate detection, and pivot table refresh.  
 
 ---
+<img width="499" height="678" alt="Excel-Automation" src="https://github.com/user-attachments/assets/8a514db7-9bd8-492e-8854-1452822053e1" />
 
 ## Features
 - **User-Friendly GUI** – Select a main Excel file, add multiple monthly files, and process them with one click.  
