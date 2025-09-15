@@ -25,10 +25,10 @@ It simplifies merging, cleaning, and categorizing financial transactions from mu
 ---
 
 ## Why Create This Tool?
-✅ **Save Hours of Work** – No more manual copy-paste between monthly and main Excel sheets.  
-✅ **Reduce Errors** – Automated classification, duplicate checks, and formatting consistency.  
-✅ **Boost Productivity** – Process all files in one go and get updated pivot tables instantly.  
-✅ **Ensure Consistency** – Standardized categories and descriptions across multiple reports.  
+**Save Hours of Work** – No more manual copy-paste between monthly and main Excel sheets.  
+**Reduce Errors** – Automated classification, duplicate checks, and formatting consistency.  
+**Boost Productivity** – Process all files in one go and get updated pivot tables instantly.  
+**Ensure Consistency** – Standardized categories and descriptions across multiple reports.  
 
 ---
 
