@@ -21,7 +21,7 @@ It simplifies merging, cleaning, and categorizing financial transactions from mu
   - Appends new transactions with correct formatting.  
   - Highlights “Need Review” and “Duplicate” rows with colors.  
   - Auto-generates Month column via formula.  
-  - Refreshes all Pivot Tables instantly.  
+  - Refreshes all Pivot Tables instantly.
 
 ---
 
